@@ -1,7 +1,8 @@
 # GoOutside Project
 
 ## Project Overview
-This repository contains resources for the GoOutside Case Study project, including BigQuery SQL queries, Google Sheets features, and Looker Studio dashboards.
+GoOutside isn’t the average startup. They’re seasoned adventurers with a loyal customer base and a rapidly expanding inventory, but their data is currently locked away in inaccessible systems. To untangle this mess, one can utilize BigQuery, Google Sheets, and Looker Studio. 
+This repository contains work, including SQL queries, Google Sheets features, and Looker Studio dashboards, along with screen recordings of the process.
 
 ## BigQuery SQL
 This folder contains the SQL queries used to create and analyze various datasets:
