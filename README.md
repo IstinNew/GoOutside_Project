@@ -30,7 +30,7 @@ These recordings provide a step-by-step guide to our data processing and visuali
 ### Features:
 - **Pivot Tables**: Used for summarizing and analyzing data.
 - **Column Status**: For tracking the status and updates of columns.
-- 
+
 ## Time Taken
 The completion of this project took approximately 2.5 days.
 
